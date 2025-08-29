@@ -77,7 +77,7 @@ print(df.head())
 
 # PostgreSQL connection
 db_user = "postgres"
-db_password = quote_plus("Akshay@214")
+db_password = quote_plus("your_password")
 db_host = "localhost"
 db_port = "5432"
 db_name = "yt_pipeline"
